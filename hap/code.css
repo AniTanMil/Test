@@ -1,0 +1,24 @@
+/* *{
+
+} */
+
+body{
+    background-color: aqua;
+}
+
+.button.div{
+    background-color: aquamarine;
+    padding: 10px;
+    border: solid white;
+}
+
+.button.txt:hover{
+    background-color: aquamarine;
+}
+
+.button.txt{
+    border: solid white;
+    margin-left: 50px;
+    background-color: aqua;
+    font-size: 30px;
+}
